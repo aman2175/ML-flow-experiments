@@ -125,7 +125,6 @@ Model Registry.
 ## Notes
 
 -   Ensure AWS credentials have read access to S3.
--   Large datasets and MLflow artifacts are excluded via `.gitignore`.
 -   Follow notebook execution order for smooth workflow.
 
 ## Key Insights and Observations
