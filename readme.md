@@ -53,7 +53,7 @@ Model Registry.
 ### 1. Clone the repository
 
     git clone https://github.com/aman2175/ML-flow-experiments/blob/main
-    cd airbnb-price-prediction
+
 
 ### 2. Install dependencies
 
