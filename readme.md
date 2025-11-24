@@ -98,9 +98,9 @@ Model Registry.
 
   Model                     RMSE    R²
   ------------------------- ------- ------
-  Linear Regression         45.56   0.54
-  Random Forest Regressor   43.88   0.57
-  Gradient Boosting         44.55   0.56
+  Linear Regression         45.56  , 0.54
+  Random Forest Regressor   43.88 ,  0.57
+  Gradient Boosting         44.55 , 0.56
 
   ### ML FLOW:
   ## Experiment Tracking UI:
