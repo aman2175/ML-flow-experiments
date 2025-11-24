@@ -106,12 +106,12 @@ Model Registry.
   ## Experiment Tracking UI:
 ![alt text](image.png)
   ## Metrics Comparision:
-  ![alt text](image-1.png)
+  ![alt text](image1.png)
 
-  ![alt text](image-2.png)
-  ![alt text](image-3.png)
+  ![alt text](image2.png)
+  ![alt text](image3.png)
   ## Model Registres: 
-  ![alt text](image-4.png)
+  ![alt text](image4.png)
 ## Dependencies
 
     pandas
